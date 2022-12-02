@@ -7,4 +7,5 @@
 6-multiple_permissions grant multiple permissions
 7-everybody grant everyone permissions
 8-James_Bond give others permissions
-9-John_Doe -rwxr-x-wx 
+9-John_Doe -rwxr-x-wx
+10-mirror_permissions give mirror perms 
