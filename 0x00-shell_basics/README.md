@@ -15,3 +15,4 @@ Script 14 creates a symbolic link
 Script 15 copies newer html files to the parent dir
 100-lets_move moves files with capitalized names to /tmp/u
 101-clean_emacs deletes emac files
+102-tree creates a directory tree
