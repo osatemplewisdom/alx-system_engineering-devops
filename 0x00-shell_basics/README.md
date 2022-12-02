@@ -7,3 +7,4 @@ Script 6 displays all file contents including user and group ID
 Script 7 creates a directory in /tmp
 Script 8 moves betty from /tmp to /tmp/my_first_directory
 Script 9 deletes betty
+Script 10 delete directory
