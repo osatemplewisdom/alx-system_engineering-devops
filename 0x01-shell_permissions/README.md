@@ -4,4 +4,5 @@
 3-new_owner change owner of file
 4-empty create empty file
 5-execute change file permission
-6-multiple_permissions grant multiple permissions 
+6-multiple_permissions grant multiple permissions
+7-everybody grant everyone permissions 
