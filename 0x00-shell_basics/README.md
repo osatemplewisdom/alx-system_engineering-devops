@@ -16,3 +16,4 @@ Script 15 copies newer html files to the parent dir
 100-lets_move moves files with capitalized names to /tmp/u
 101-clean_emacs deletes emac files
 102-tree creates a directory tree
+103-commas lists contents and seperates each with a comma
