@@ -8,3 +8,4 @@ Script 7 creates a directory in /tmp
 Script 8 moves betty from /tmp to /tmp/my_first_directory
 Script 9 deletes betty
 Script 10 delete directory
+Script 11 changes working directory to the previous one
