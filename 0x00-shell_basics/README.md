@@ -12,3 +12,4 @@ Script 11 changes working directory to the previous one
 Script 12 lists all contents incl hidden files
 Script 13 shows file type of /tmp/iamafile
 Script 14 creates a symbolic link
+Script 15 copies newer html files to the parent dir
