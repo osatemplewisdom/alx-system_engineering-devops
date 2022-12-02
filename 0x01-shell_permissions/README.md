@@ -6,4 +6,5 @@
 5-execute change file permission
 6-multiple_permissions grant multiple permissions
 7-everybody grant everyone permissions
-8-James_Bond give others permissions 
+8-James_Bond give others permissions
+9-John_Doe -rwxr-x-wx 
