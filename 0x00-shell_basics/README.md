@@ -9,3 +9,4 @@ Script 8 moves betty from /tmp to /tmp/my_first_directory
 Script 9 deletes betty
 Script 10 delete directory
 Script 11 changes working directory to the previous one
+Script 12 lists all contents incl hidden files
