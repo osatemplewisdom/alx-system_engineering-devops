@@ -18,3 +18,4 @@ Script 15 copies newer html files to the parent dir
 102-tree creates a directory tree
 103-commas lists contents and seperates each with a comma
 school.mgc finds School data files
+0-iam_betty switch current user to user betty
