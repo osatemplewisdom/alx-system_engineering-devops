@@ -8,4 +8,5 @@
 7-everybody grant everyone permissions
 8-James_Bond give others permissions
 9-John_Doe -rwxr-x-wx
-10-mirror_permissions give mirror perms 
+10-mirror_permissions give mirror perms
+11-directories_permissions give driectory perms 
